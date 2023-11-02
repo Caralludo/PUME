@@ -116,7 +116,7 @@ results directory will have the same name as the original ones.
 In the following image you can see the type of errors that can happen:
 ![A python's error handing floats](./images/float_problem.png)
 - Due to typing in Python is dynamic, you cannot figure out what type variable the programmer is using until the 
-program is running. So when PUME is changing names of functions and two classes which have the same name for a 
+program is running. So when PUME is changing names of functions and two classes have the same name for a 
 function, it does not know which function belongs to which class. __So the programmer cannot create two functions with 
 the same name in different classes. This also applies to the standard libraries.__
 In the following example, the programmer is creating a class with a function that shares name with other function of 
